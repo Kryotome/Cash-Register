@@ -3,7 +3,7 @@ import java.util.Date;
 import java.util.NoSuchElementException;
 
 /**
- * Cash Register Assignment Implementation
+ * Cash Register
  * A simple text-based program to manage items and sales.
  *
  * This program allows users to:
@@ -14,7 +14,7 @@ import java.util.NoSuchElementException;
  * 5. View sales history.
  * 6. Sort and display sales history.
  *
- * @author Tauhid Mahmud (taumah-4)
+ * @author Tauhid Mahmud
  */
 public class Main {
 
